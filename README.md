@@ -1,3 +1,7 @@
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+</p>
+
 # 💫 About Me:
 I'm currently a student working on a website that makes learning about the language, history, and culture of the Rif (a region in northern Morocco) accessible.
 
@@ -9,6 +13,7 @@ I'm currently a student working on a website that makes learning about the langu
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adel-Atzouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adel-Atzouza&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Atzouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies

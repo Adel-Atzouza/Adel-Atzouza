@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://github.com/Adel-Atzouza/Adel-Atzouza/blob/main/readme.png" alt="my banner">
+<img  src="https://github.com/Adel-Atzouza/Adel-Atzouza/blob/main/readme.png" alt="my banner">
 </p>
 
 # 💫 About Me:
